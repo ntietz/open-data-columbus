@@ -1,0 +1,9 @@
+# vim tmp files
+*.swp
+
+# Don't commit data...
+data/
+
+# python bytecode
+*.pyc
+
